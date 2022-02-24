@@ -1,6 +1,8 @@
 # Prime Factorization of a Number in Exponential Form
 
-You can find the prime factorization of a number in an exponential form (as `String`), prime divisors (as `int[]`) and divisors (as `int[]`) in this project.
+This is a project demonstrating the implementations of
+ - Prime factorization (in exponential form)
+ - Prime divisors
+ - Divisors
 
-Check out `PrimeFactorization.java`
-
+of a number.
